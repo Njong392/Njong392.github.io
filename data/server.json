@@ -2,13 +2,11 @@
         {
             "lgtm":{
                 "definition":"Looks Good To Me",
-                "alternative1": "Looks Great To Me",
-                "alternative2": "Looks Great To Merge"
+                "alternatives": "Looks Great To Me, Looks Great To Merge"
             },
 
             "lfg":{
                 "definition":"Let's Fucking Go",
-                "alternative1" : "Life Feels Good",
-                "alternative2" : "Looking For Group"
+                "alternatives" : "Life Feels Good, Looking For Group"
             }
         }
