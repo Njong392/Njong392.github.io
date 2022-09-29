@@ -1,5 +1,4 @@
-{
-    "abbreviations":[
+
         {
             "lgtm":{
                 "definition":"Looks Good To Me",
@@ -13,5 +12,3 @@
                 "alternative2" : "Looking For Group"
             }
         }
-    ]
-}
