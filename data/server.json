@@ -1,0 +1,17 @@
+{
+    "abbreviations":[
+        {
+            "lgtm":{
+                "definition":"Looks Good To Me",
+                "alternative1": "Looks Great To Me",
+                "alternative2": "Looks Great To Merge"
+            },
+
+            "lfg":{
+                "definition":"Let's Fucking Go",
+                "alternative1" : "Life Feels Good",
+                "alternative2" : "Looking For Group"
+            }
+        }
+    ]
+}
